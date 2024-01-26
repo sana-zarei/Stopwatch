@@ -19,6 +19,11 @@ This is a simple stopwatch application built using Python's Tkinter library. It 
 ## Requirements
 - Python 3.x
 
+**To Do List :**
+<ul style="list-style-type:none;">
+    <li><input type="checkbox" checked> - [x] Publication of the first edition  </li>
+</ul>
+
 ## Author
 Sana Zarei
 

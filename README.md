@@ -11,8 +11,10 @@ This is a simple stopwatch application built using Python's Tkinter library. It 
 ## How to Run
 1. Ensure you have Python installed on your system.
 2. Download or clone the repository.
-3. Run the script using Python:
-python stopwatch.py 
+3. Run the script using Python :
+
+   ```
+   python stopwatch.py 
 
 ## Requirements
 - Python 3.x
